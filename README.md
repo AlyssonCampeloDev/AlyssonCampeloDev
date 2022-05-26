@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlyssonCampeloDev
 - 👀 em constante aprendizado
-- 🌱 I’m currently learning: Análise e Desenvolviemnto de Sistemas
+- 🌱 I’m currently learning: Análise e Desenvolvimento de Sistemas
 - 💞️ I’m looking to collaborate on : 
 - 📫 How to reach me : alyssoncampelo@hotmail.com
 
